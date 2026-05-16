@@ -1,1 +1,1 @@
-# python-task-manager
+# task-manager-cli
